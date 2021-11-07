@@ -1,4 +1,6 @@
 # intro-to-github
+## this here is Lyman's change as practice.
+
 This is a demo repository to practice using GitHub.
 
 It has two files in the **Code** tab:
